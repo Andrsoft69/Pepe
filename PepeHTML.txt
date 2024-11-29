@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Platinum Pepe Meme Coin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #444;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #222;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background: #555;
+        }
+        .hero {
+            background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-shadow: 2px 2px 4px #000;
+        }
+        .hero h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        .cta {
+            background: #444;
+            color: white;
+            padding: 20px;
+            margin: 20px auto;
+            width: 80%;
+            border-radius: 10px;
+        }
+        footer {
+            background: #222;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background: #f4a261;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background: #e76f51;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Platinum Pepe Meme Coin</h1>
+        <p>The King of Memes in Crypto</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#features">Features</a>
+        <a href="#roadmap">Roadmap</a>
+        <a href="#buy">Buy Now</a>
+    </nav>
+    <div class="hero">
+        <h1>Jump Into The Meme Revolution!</h1>
+    </div>
+    <section id="about">
+        <h2>What is Platinum Pepe?</h2>
+        <p>Platinum Pepe is the ultimate meme coin designed to entertain, empower, and enrich the crypto community. With Pepe’s charm and a touch of brilliance, we aim to take the crypto world by storm!</p>
+    </section>
+    <section id="features">
+        <h2>Key Features</h2>
+        <ul>
+            <li>🚀 Lightning-Fast Transactions</li>
+            <li>🌐 Community-Driven Ecosystem</li>
+            <li>💎 Platinum-Level Rewards</li>
+        </ul>
+    </section>
+    <section id="roadmap">
+        <h2>Our Roadmap</h2>
+        <p>From meme domination to crypto mainstream, our journey is just beginning. Check out our roadmap for exciting updates!</p>
+        <a href="#roadmap" class="button">View Roadmap</a>
+    </section>
+    <section id="buy" class="cta">
+        <h2>Buy Platinum Pepe Today!</h2>
+        <p>Join the Pepe revolution and get in on the fun. Platinum Pepe is available on popular crypto platforms!</p>
+        <a href="#" class="button">Buy Now</a>
+    </section>
+    <footer>
+        <p>&copy; 2024 Platinum Pepe Meme Coin. All rights reserved.</p>
+        <p>Follow us: <a href="#">Twitter</a> | <a href="#">Discord</a> | <a href="#">Telegram</a></p>
+    </footer>
+</body>
+</html>
